@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Meet Our Staff</string>
+    <string name="fabiano">Fabiano</string>
+    <string name="rameshbabu">Rameshbabu</string>
+    <string name="gukesh">Gukesh</string>
+    <string name="magnus">Magnus</string>
+    <string name="ian">Ian</string>
+    <string name="ding">Ding</string>
+    <string name="vidit">Vidit</string>
+    <string name="hikaru">Hikaru</string>
+    <string name="profile_card_description">Profile Card of %1$s</string>
+    <string name="caruana">Caruana</string>
+    <string name="praggnananda">Praggnananda</string>
+    <string name="nakamura">Nakamura</string>
+    <string name="dommaraju">Dommaraju</string>
+    <string name="gujrathi">Gujrathi</string>
+    <string name="nepomniatchi">Nepomniatchi</string>
+    <string name="liren">Liren</string>
+    <string name="carlsen">Carlsen</string>
+</resources>
